@@ -1,0 +1,17 @@
+{
+  "name": "Bismillah Hotel",
+  "short_name": "Bismillah",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#100d09",
+  "theme_color": "#17110b",
+  "description": "Bismillah Hotel family restaurant menu and ordering",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
